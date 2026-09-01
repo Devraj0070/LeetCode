@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Devraj0070/LeetCode/tree/master/0412-fizz-buzz) |
+| [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devraj0070/LeetCode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
