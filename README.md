@@ -40,10 +40,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Devraj0070/LeetCode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/Devraj0070/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Devraj0070/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Devraj0070/LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
