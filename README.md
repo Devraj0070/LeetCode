@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Devraj0070/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Devraj0070/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Devraj0070/LeetCode/tree/master/0412-fizz-buzz) |
+| [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devraj0070/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devraj0070/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/Devraj0070/LeetCode/tree/master/2652-sum-multiples) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Devraj0070/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Devraj0070/LeetCode/tree/master/0860-lemonade-change) |
+| [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
 | [1480-running-sum-of-1d-array](https://github.com/Devraj0070/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Devraj0070/LeetCode/tree/master/0860-lemonade-change) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
