@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Devraj0070/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Devraj0070/LeetCode/tree/master/0412-fizz-buzz) |
 | [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Simulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Devraj0070/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/Devraj0070/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Devraj0070/LeetCode/tree/master/0860-lemonade-change) |
 | [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devraj0070/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
