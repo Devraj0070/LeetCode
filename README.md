@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Devraj0070/LeetCode/tree/master/0860-lemonade-change) |
 | [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
 | [1480-running-sum-of-1d-array](https://github.com/Devraj0070/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Devraj0070/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Devraj0070/LeetCode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Devraj0070/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
