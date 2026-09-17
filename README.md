@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Devraj0070/LeetCode/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devraj0070/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devraj0070/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2614-prime-in-diagonal](https://github.com/Devraj0070/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Devraj0070/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Devraj0070/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Devraj0070/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Devraj0070/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Devraj0070/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/Devraj0070/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Devraj0070/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2942-find-words-containing-character](https://github.com/Devraj0070/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
@@ -76,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Devraj0070/LeetCode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Devraj0070/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Devraj0070/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/Devraj0070/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Devraj0070/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Devraj0070/LeetCode/tree/master/0832-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Devraj0070/LeetCode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
